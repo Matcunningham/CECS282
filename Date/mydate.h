@@ -6,6 +6,7 @@
 #ifndef _MYDATE
 #define _MYDATE
 #include <iostream>
+#include <string>
 using namespace std;
 
 class myDate

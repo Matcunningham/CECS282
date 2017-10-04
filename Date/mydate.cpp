@@ -5,10 +5,9 @@
 
 #include "mydate.h"
 #include <iostream>
-#include <string>
 using namespace std;
 
-string monthStr[] = { "January", "Febuary", "March", "April", "May", "June", "July",
+string monthStr[] = { "January", "February", "March", "April", "May", "June", "July",
 "August", "September", "October", "November", "December" };
 
 int daysInMonth[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
