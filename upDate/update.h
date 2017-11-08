@@ -51,7 +51,7 @@ public:
 	string getMonthName();
 
 	// Static Methods
-	static int getDateCount();
+	static int GetDateCount();
 	static int greg2Julian(int, int, int);
 	static void julian2Greg(int JD, int &m, int &d, int &y);
 

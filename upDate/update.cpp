@@ -238,7 +238,7 @@ string upDate::getMonthName()
 	return monthStr[dptr[MONTH] - 1];
 }
 
-int upDate::getDateCount()
+int upDate::GetDateCount()
 {
 	return count;
 }
